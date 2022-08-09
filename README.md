@@ -7,7 +7,7 @@
 # 📊GitHub Stats:
 <p align='center'>
 <a href="https://github.com/DaviBewzenko" target="_blank">
-            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=DaviBewzenko&show_icons=true&hide_border=true&theme=react&border_radius=0" height=180/>
-            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBewzenko&layout=compact&show_icons=true&hide_border=true&theme=react&border_radius=0" height=180/>
+            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=DaviBewzenko&show_icons=true&hide_border=true&theme=react&border_radius=0" height=170/>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBewzenko&layout=compact&show_icons=true&hide_border=true&theme=react&border_radius=0" height=170/>
         </a>
 </p>
