@@ -72,7 +72,7 @@
 </details>
 
 <details>
-  <summary>📞 Contact me</summary>
+  <summary>📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲</summary>
   </details>
   <br>
 
