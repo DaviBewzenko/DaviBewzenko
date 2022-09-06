@@ -35,7 +35,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>👨🏻‍💻 GitHub Activity</summary>
+  <summary>👨🏻‍💻 GitHub Commits</summary>
   <br/>
 </details>
 
