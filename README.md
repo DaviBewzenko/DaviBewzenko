@@ -1,6 +1,7 @@
 # [<img src="backIMG.jpeg" width="100%" height="280vh">](https://www.linkedin.com/in/davijesus/)
 
 <h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> <img src="hi.gif" width="30px" height="35">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=23&duration=3000&pause=1000&color=006AFF&width=435&lines=Ol%C3%A1%2C+%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B7%F0%9D%97%AE+%F0%9D%97%BA%F0%9D%98%82%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%BC+%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BA-%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%BC(%F0%9D%97%AE);Me+chamo+Davi%2C+prazer!" alt="Typing SVG" /></a>
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
