@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> <img src="hi.gif" width="30px" height="35">
 </h1>
-<p align="center">I love creating new things ⚡</p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=23&duration=3000&pause=1000&color=989898&width=435&lines=I+love+creating+new+things" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=3000&pause=1000&color=E2E2E2&width=435&lines=I+love+creating+new+things+%E2%9A%A1" alt="Typing SVG" /></a></p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
