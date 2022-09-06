@@ -42,7 +42,7 @@
 <br>
 
 <p align='left'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=37&duration=1&pause=1000&color=E2E2E2&width=170&height=55&lines=About+me%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=37&duration=1&pause=1000&color=E2E2E2&center=true&vCenter=true&width=174&height=40&lines=About+me%3A" alt="Typing SVG" /></a>
 <img height="35px" src="tools.png">
 <hr>
 </p> 
