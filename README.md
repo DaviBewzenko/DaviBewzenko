@@ -34,5 +34,11 @@
 
 <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="obrigada pela visita" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=0047ab&size=24&center=true&vCenter=true&width=300&lines=Obrigada+pela+visita!" >
+    </a>
+</div>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=0047ab&style=flat&logo" alt="voltar ao topo ★" /></a></p>
 <a href="#top"><img src="https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg">
