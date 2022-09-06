@@ -43,11 +43,8 @@
 # 
 
 <h1 align="left" font=Righteous color=E1E1E1 size=50> About me:
-</h1>
-<p align='left'>
-<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=truewidth=300&lines=About+me:">
 <img height="45px" src="tools.png">
-</p> 
+</h1>
 <hr>
 
 <h2>:book: Livro de Visitas</h2>
