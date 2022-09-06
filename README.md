@@ -1,6 +1,6 @@
 # [<img src="backIMG.jpeg" width="100%" height="280vh">](https://www.linkedin.com/in/davijesus/)
 
-<h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo Davi de Jesus, prazer! </br> 
+<h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo Davi de Jesus, prazer!
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
@@ -15,7 +15,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<p align='right'>
+<p align='left'>
 <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
 <img height="45px" src="stats.png">
 </p>
