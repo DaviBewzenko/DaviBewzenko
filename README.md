@@ -44,7 +44,7 @@
 
 <p align='left'>
 <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=About+me:">
-<img height="45px" src="stats.png">
+<img height="45px" src="tools.png">
 </p> 
 <hr>
 
