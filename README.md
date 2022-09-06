@@ -37,4 +37,4 @@
 <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=0047ab&style=flat&logo" alt="voltar ao topo ★" /></a></p>
-<img src="https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg">
+<a href="#top"><img src="https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg">
