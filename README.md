@@ -12,4 +12,4 @@
         </a>
 </p>
 
-<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img src="backIMG.jpeg">
