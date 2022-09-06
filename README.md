@@ -40,12 +40,10 @@
   <br/>
 </details>
 
-# 
-
 <h1 align="left" font=Righteous color=E1E1E1 size=50 center=true Center=true> About me:
 <img height="35px" src="tools.png">
-</h1>
-<hr>
+</h1><hr>
+
 
 <h2>:book: Livro de Visitas</h2>
 <p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
