@@ -1,3 +1,4 @@
+# <img src="backIMG.jpeg">
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davi_bewzenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daviBewzenko) 
@@ -12,4 +13,4 @@
         </a>
 </p>
 
-<img src="backIMG.jpeg">
+<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
