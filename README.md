@@ -69,6 +69,7 @@
 📆 2022- moment\
 📍 **Entra21** - Blumenau/SP, Brazil
 <br><br>
+</details>
 
 
 <h2>:book: Livro de Visitas</h2>
