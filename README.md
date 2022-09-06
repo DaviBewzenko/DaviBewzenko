@@ -15,7 +15,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<p align='center'>
+<p align='right'>
 <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
 <img height="45px" src="stats.png">
 </p>
