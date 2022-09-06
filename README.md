@@ -74,7 +74,7 @@
 <details>
   <summary>📞 Contact me</summary>
   </details>
-  <br><br><br>
+  <br>
 
 
 <h2>:book: Livro de Visitas</h2>
