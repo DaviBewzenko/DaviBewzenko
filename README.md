@@ -23,3 +23,6 @@
 </p>
 
 <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
