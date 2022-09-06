@@ -39,7 +39,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="obrigada pela visita" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=white&size=28&center=true&vCenter=true&width=350&lines=Obrigado+pela+visita!" >(https://www.linkedin.com/in/davijesus/)
+        <img alt="obrigada pela visita" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=white&size=28&center=true&vCenter=true&width=350&lines=Obrigado+pela+visita!" a href="https://www.linkedin.com/in/davijesus/">
     </a>
 </div>
 
