@@ -1,4 +1,4 @@
-<img src="backIMG.jpeg" width="30px" height="30px">
+# <img src="backIMG.jpeg" width="100%" height="100%">
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davi_bewzenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daviBewzenko) 
