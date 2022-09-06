@@ -31,7 +31,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DaviBewzenko Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBewzenko&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="100%" width="45%"/></a>
   </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
+  <br/><br/>
 </details>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
