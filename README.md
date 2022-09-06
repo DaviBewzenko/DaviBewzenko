@@ -74,10 +74,7 @@
 <details>
   <summary>📞 Contact me</summary>
   </details>
-  
-  <details>
-  <summary>🙋🏼‍♂️ About me</summary>
-  </details>
+
 
 <h2>:book: Livro de Visitas</h2>
 <p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
