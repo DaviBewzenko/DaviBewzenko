@@ -63,12 +63,12 @@
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
   
 - 👨‍💻 **Student software developer**\
 📆 2022- moment\
 📍 **Entra21** - Blumenau/SP, Brazil
+<br><br>
 
 
 <h2>:book: Livro de Visitas</h2>
