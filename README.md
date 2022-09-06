@@ -1,6 +1,6 @@
 # [<img src="backIMG.jpeg" width="100%" height="280vh">](https://www.linkedin.com/in/davijesus/)
 
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> <img src="hi.gif" width="30px" height="35">
+<h1 align="center"> Hi <img src="hi.gif" width="30px" height="35">🏻, I'm Vishwa Gaurav </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
