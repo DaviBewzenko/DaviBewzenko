@@ -1,6 +1,6 @@
 # [<img src="backIMG.jpeg" width="100%" height="280vh">](https://www.linkedin.com/in/davijesus/)
 
-<h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo Davi de Jesus, prazer!
+<h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
