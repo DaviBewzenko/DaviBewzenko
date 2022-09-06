@@ -46,7 +46,7 @@
 </p> 
 <hr>
 <h1><b>About me:</b></h1>
-<h1 font="Righteous" color="E1E1E1" width="20px"><b>𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:</b></h1>
+<h1 font="Righteous" color="E1E1E1" width="20px"><b>𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:About me:</b></h1>
 
 
 
