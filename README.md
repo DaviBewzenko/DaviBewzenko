@@ -63,7 +63,7 @@
 
 ## Experience
 
-<img alt="MySQL" align="right" src="https://img.shields.io/badge/-Git-important?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="Git" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Git-blueviolet.svg?logo=gitlogoColor=white" />
 <img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
