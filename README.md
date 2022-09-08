@@ -63,12 +63,12 @@
 
 ## Experience
 
-<img alt="MySQL" align="right" src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="MySQL" align="right" src="https://img.shields.io/badge/-Git-important?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-important?logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
   
 - 👨‍💻 **Student software developer**\
 📆 2022- moment\
