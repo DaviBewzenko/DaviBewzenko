@@ -62,6 +62,7 @@
 
 ## Experience
 
+<img alt="MySQL" align="right" src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
