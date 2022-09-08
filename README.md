@@ -56,6 +56,7 @@
 <img alt="Java" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" />
 <img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
 <img alt="Figma" align="right" src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
+<img alt="Figma2" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Figma-007396.svg?logo=figma&logoColor=white" />
   
 - 📖 **Web devolopement**\
 📆 2019 - 2021\
