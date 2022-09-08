@@ -53,8 +53,8 @@
 
 ## Education
 
-<img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>  
+<img alt="Java" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" />
+<img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
 - 📖 **Web devolopement**\
 📆 2019 - 2021\
 📍 **Cedup Hermann Hering - High school integrated to Vocational education, Computer Technician** - Blumenau/SC, Brazil
