@@ -52,10 +52,9 @@
   
 
 ## Education
-
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+  
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Word-blue?logo=microsoft-word&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-217346?logo=microsoft-office&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20PowerPoint-D83B01?logo=microsoft-powerpoint&logoColor=white" />
 <img alt="Java" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" />
 <img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
