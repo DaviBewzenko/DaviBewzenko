@@ -13,17 +13,16 @@
   <a href="https://www.instagram.com/davi_bewzenko/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <br><br>
+ <br>
 </p>
-
-<p align='left'>
-<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
-<img height="45px" src="stats.png">
 <table align="right">
-
  <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
+<br>
+<p align='left'>
+<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
+<img height="45px" src="stats.png">
 </p> 
 <hr>
 
