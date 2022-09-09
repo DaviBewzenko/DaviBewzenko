@@ -83,7 +83,7 @@
   
 
 ## - Find me around the web 🌎
-
+  <p>I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.</p>
   <p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
   <p align="center">
   <a href="https://www.linkedin.com/in/davijesus/">
