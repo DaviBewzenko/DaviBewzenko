@@ -1,11 +1,11 @@
 # [<img src="backIMG.jpeg" width="100%" height="260vh">](https://www.linkedin.com/in/davijesus/)
 
-
-<h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
-</h1><table align="right">
+<table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
+<h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
+</h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align='center'>
@@ -92,15 +92,11 @@
   <a href="https://www.linkedin.com/in/davijesus/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:i@blackcater.dev">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50px" width="50px" />
-  </a> 
+  <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.instagram.com/davi_bewzenko/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-    
-  
-</p>
+   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ❤️</em>
 
 ---
