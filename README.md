@@ -4,7 +4,6 @@
  <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
-<br>
 <h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
 </h1>
 <p align="center">I love creating new things ⚡</p>
