@@ -3,10 +3,7 @@
 
 <h1 align="center">Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
 </h1>
-<table align="right">
- <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
-</table>
+
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align='center'>
@@ -18,7 +15,10 @@
   </a>&nbsp;&nbsp;
  <br><br>
 </p>
-
+<table align="right">
+ <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
+</table>
 <p align='left'>
 <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
 <img height="45px" src="stats.png">
