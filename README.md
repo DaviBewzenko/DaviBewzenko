@@ -1,8 +1,8 @@
 # [<img src="backIMG.jpeg" width="100%" height="260vh">](https://www.linkedin.com/in/davijesus/)
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <h1 align="center"> Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
 </h1>
@@ -103,7 +103,8 @@
 ---
   </details>
   <br>
-
+- <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil. <br>
+- <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; Get in touch with my social media, share, ask questions and collaborate together! <br>
 
 <h2>:book: Livro de Visitas</h2>
 <p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
