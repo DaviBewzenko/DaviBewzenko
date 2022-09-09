@@ -53,6 +53,8 @@
 
 ## Education
 
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img alt="Java" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" />
 <img alt="MySQL" align="right" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" />
 <img alt="Figma" align="right" src="https://custom-icon-badges.herokuapp.com/badge/Figma-blueviolet.svg?logo=figma&logoColor=white" />
