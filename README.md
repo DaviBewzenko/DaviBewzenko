@@ -1,12 +1,12 @@
-# [<img src="backIMG.jpeg" width="100%" height="260vh">](https://www.linkedin.com/in/davijesus/)
+[<img src="backIMG.jpeg" width="100%" height="260vh">](https://www.linkedin.com/in/davijesus/)
 
-
-<h1 align="center">Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
-</h1>
- <table align="right">
+<table align="right">
  <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
+<h1 align="center">Olá <img src="hi.gif" width="30px" height="35">, me chamo 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, prazer!
+</h1>
+ 
 <hr><p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align='center'>
