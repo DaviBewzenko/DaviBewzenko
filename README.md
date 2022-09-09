@@ -41,6 +41,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>👨🏻‍💻 GitHub Commits</summary>
+    
+- <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
   <br/>
 </details>
 <br>
@@ -53,8 +55,7 @@
 
 <details>
   <summary>📃 Resume</summary>
-  
-- <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
+
 
 ## Education
   
