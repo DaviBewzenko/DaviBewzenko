@@ -86,6 +86,8 @@
   
 
 ## - Find me around the web 🌎
+  - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil. <br>
+  - <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; Get in touch with my social media, share, ask questions and collaborate together! <br>
   **<p> - I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.</p>**
   <p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
   <br>
