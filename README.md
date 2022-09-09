@@ -81,7 +81,7 @@
 <details>
   <summary>📬 How to reach me</summary>
   
-<p align="right">Get in touch with my social media, share, ask questions and collaborate together! </p>
+<p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
 
   </details>
   <br>
