@@ -53,7 +53,9 @@
 
 <details>
   <summary>📃 Resume</summary>
-  
+
+    - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
+
 
 ## Education
   
@@ -125,5 +127,3 @@
 
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
-
-  - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
