@@ -7,7 +7,7 @@
  <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
---- <p align="center">I love creating new things ⚡</p>
+<hr><p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/davijesus/">
