@@ -86,10 +86,9 @@
   
 
 ## - Find me around the web 🌎
-  - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil. <br>
+  - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
   - <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; Get in touch with my social media, share, ask questions and collaborate together! <br>
-  **<p> - I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.</p>**
-  <p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
+
   <br>
   <p align="center">
   <a href="https://www.linkedin.com/in/davijesus/">
@@ -98,16 +97,14 @@
   <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://www.instagram.com/davi_bewzenko/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  # </a>&nbsp;&nbsp;
    
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ❤️</em>
 
 ---
   </details>
   <br>
-- <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil. <br>
-- <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; Get in touch with my social media, share, ask questions and collaborate together! <br>
-
+  
 <h2>:book: Livro de Visitas</h2>
 <p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
 
