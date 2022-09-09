@@ -86,7 +86,7 @@
   
 
 ## - Find me around the web 🌎
-  <p>I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.</p>
+  **<p> - I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.</p>**
   <p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
   <br>
   <p align="center">
@@ -117,7 +117,7 @@
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=0047ab&style=flat&logo" alt="voltar ao topo ★" /></a></p>
 <a href="#top"><img src="https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg"></a>
 
-<br><br>
+<br>
 
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
