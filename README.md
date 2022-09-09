@@ -3,7 +3,6 @@
 
 <h1 align="center">Hello <img src="hi.gif" width="30px" height="35">, my name is 𝗗𝗮𝘃𝗶 𝗱𝗲 𝗝𝗲𝘀𝘂𝘀, nice to meet you!
 </h1>
-Hello, my name is David de Jesus, nice to meet you!
 
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
