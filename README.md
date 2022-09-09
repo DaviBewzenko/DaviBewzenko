@@ -111,16 +111,17 @@
   </details>
   <br>
   
-<h2>:book: Livro de Visitas</h2>
-<p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">
+here</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="obrigada pela visita" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=white&size=28&center=true&vCenter=true&width=350&lines=Obrigado+pela+visita!" a href="https://www.linkedin.com/in/davijesus/">
+        <img alt="obrigada pela visita" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=white&size=28&center=true&vCenter=true&width=350&lines=Thanks+for+you+visit!" a href="https://www.linkedin.com/in/davijesus/">
     </a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=0047ab&style=flat&logo" alt="voltar ao topo ★" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0047ab&style=flat&logo" alt="voltar ao topo ★" /></a></p>
 <a href="#top"><img src="https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg"></a>
 
 <br>
