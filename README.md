@@ -86,8 +86,7 @@
   
 
 ## - Find me around the web 🌎
-  - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
-  - <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; Get in touch with my social media, share, ask questions and collaborate together! <br>
+  - <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; If you want to reach out to me about anything, be it some doubt or just to talk together, just talk me 😉. <br>
 
   <br>
   <p align="center">
@@ -99,7 +98,7 @@
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <p align="center">
-   📫 Se precisar entrar em contato, fale comigo pelo meu e-mail - davibewzenko@gmail.com
+   <a href="">📫 Se precisar entrar em contato, fale comigo pelo meu e-mail - davibewzenko@gmail.com</a>
  </p>
    
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ❤️</em>
@@ -124,3 +123,5 @@
 
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
+  - <img src="hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; **I'm Davi Bewzenko de Jesus, a 19 years old developer from Brasil.** <br>
