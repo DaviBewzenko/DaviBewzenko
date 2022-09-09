@@ -80,6 +80,7 @@
 📆 2022- moment\
 📍 **Entra21** - Blumenau/SP, Brazil
 <br><br>
+<hr>
 </details>
 
 <details>
