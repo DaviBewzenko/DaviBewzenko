@@ -81,12 +81,22 @@
 <details>
   <summary>📬 How to reach me</summary>
   
-  ## Social media
-  
-  
-  <br>
-  <p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
 
+## - Find me around the web 🌎
+
+  <p align="left">Get in touch with my social media, share, ask questions and collaborate together! </p>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/davijesus/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:i@blackcater.dev">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+  </a> 
+  <a href="https://www.instagram.com/davi_bewzenko/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+</p>
   </details>
   <br>
 
