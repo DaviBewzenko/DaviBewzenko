@@ -131,13 +131,13 @@
   
   ## Design/Visual tools
   
-  ![Figma](https://img.shields.io/badge/-Figma-311C87.svg?style=for-the-badge&logo=figma&Color=white)
+  ![Figma](https://img.shields.io/badge/-Figma-316192.svg?style=for-the-badge&logo=figma&Color=white)
   ![Canva](https://img.shields.io/badge/-Canva-362D59?style=for-the-badge&logo=canva)
   
   ## Version Control
 
-  ![Git](https://img.shields.io/badge/Git-311C87?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-362D59?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
    </details>
   
