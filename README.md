@@ -115,18 +115,22 @@
   
   ## Languages
   
-  ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  </details>
   
-  ### Version Control
+  ## JS Framework/Library
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+  ## Version Control
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+   </details>
   
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">
