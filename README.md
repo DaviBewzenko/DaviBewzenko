@@ -109,7 +109,6 @@
 
 ---
   </details>
-  <br>
   
   <details>
   <summary> Tech Stack </summary>
