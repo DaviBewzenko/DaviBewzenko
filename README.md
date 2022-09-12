@@ -131,12 +131,12 @@
   
   ## Back-end
   
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-FAB040?style=for-the-badge&logo=node.js&logoColor=pink)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-FAB040?style=for-the-badge&logo=node.js&logoColor=black)
   ![API](https://img.shields.io/badge/-API-%23172BF4?style=for-the-badge&logo=fastapi)
   
   ## Design/Visual tools
   
-  ![Figma](https://img.shields.io/badge/-Figma-%23000000.svg?style=for-the-badge&logo=figma&Color=white)
+  ![Figma](https://img.shields.io/badge/-Figma-%23008080.svg?style=for-the-badge&logo=figma&Color=white)
   ![Canva](https://img.shields.io/badge/-Canva-003545?style=for-the-badge&logo=canva)
   
   ## Version Control
