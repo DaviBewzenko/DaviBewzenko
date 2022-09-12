@@ -111,6 +111,9 @@
   </details>
   <br>
   
+  <details>
+  <summary> Tech Stack </summary>
+  
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/DaviBewzenko/DaviBewzenko/issues/new?template=assinar-o-livro-de-visitas.md">
 here!</a></p>
