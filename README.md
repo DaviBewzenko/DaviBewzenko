@@ -129,6 +129,11 @@
   
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
+  ## Design/Visual tools
+  
+  ![Figma](https://img.shields.io/badge/-Figma-000.svg?style=for-the-badge&logo=figma&Color=white)
+  ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+  
   ## Version Control
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
