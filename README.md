@@ -136,7 +136,7 @@
   
   ## Design/Visual tools
   
-  ![Figma](https://img.shields.io/badge/-Figma-%23326ce5.svg?style=for-the-badge&logo=figma&Color=white)
+  ![Figma](https://img.shields.io/badge/-Figma-0D101E.svg?style=for-the-badge&logo=figma&Color=white)
   ![Canva](https://img.shields.io/badge/-Canva-003545?style=for-the-badge&logo=canva)
   
   ## Version Control
