@@ -89,7 +89,7 @@
   <summary>📬 How to reach me</summary>
   
 
-## - Find me around the web 🌎
+## Find me around the web 🌎
   - <img src="message.gif?raw=true" width="25" />&nbsp;&nbsp; If you want to reach out to me about anything, be it some doubt or just to talk together, just talk me 😉. <br>
 
   <br>
