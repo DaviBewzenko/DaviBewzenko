@@ -152,13 +152,7 @@ here!</a></p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Thanks for you visit" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=white&size=28&center=true&vCenter=true&width=350&lines=Thanks+for+you+visit+!" a href="https://www.linkedin.com/in/davijesus/">
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+        <img alt="Thanks for you visit" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=white&size=28&center=true&vCenter=true&width=350&lines=Thanks+for+you+visit!" a href="https://www.linkedin.com/in/davijesus/">
     </a>
 </div>
 
