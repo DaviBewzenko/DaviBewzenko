@@ -156,6 +156,12 @@ here!</a></p>
     </a>
 </div>
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0047ab&style=flat&logo" alt="voltar ao topo ★" /></a></p>
 <a href="#top"><img src="https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg"></a>
 
