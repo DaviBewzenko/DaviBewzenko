@@ -15,6 +15,7 @@
   </a>&nbsp;&nbsp;
  <br>
 </p>
+<br>
 <table align="right">
  <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
